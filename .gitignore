@@ -1,0 +1,21 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Expo
+app/node_modules/
+app/.expo/
+app/dist/
+app/build/
+
+# Supabase
+supabase/.branches/
+supabase/.temp/
+
+# OS
+.DS_Store
+*.log
+
+# TypeScript
+*.tsbuildinfo
